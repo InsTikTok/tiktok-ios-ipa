@@ -1,9 +1,9 @@
-# TikTok iOS 免拔卡教程，tiktok ios ipa 旧版历史版本下载
-## 最新版TikTok暂时不支持免拔卡使用，需要下载旧版
+## 最新版的TikTok暂时不支持免拔卡使用，需要下载旧版。
 ## 操作步骤
-1、[下载 tiktok ios ipa 旧版 点击下载>>](http://a.ssv2ray.com/tiktok.html)
 
-2、下载 [Shadowrocket](https://www.14th.org) 教程在使用文档中
+1、下载 [Shadowrocket](https://www.14th.org) 教程在使用文档->iPhone教程中
+
+2、[下载 tiktok ios ipa 旧版 点击下载>>](http://a.ssv2ray.com/tiktok.html)
 
 3、打开Shadowrocket → 配置 → default.conf → 编辑配置 → HTTPS解密 → 开启HTTPS解密 → 生成新的CA订书 → 生成新的CA订书 → 安装证书 → 允许 → 打开设置 → 已下载描述文件 → 安装 → 安装 → 安装 → 完成 → 通用 → 关于本机 → 证书信任设置 → 开启信任Shadowrocket证书 → 继续 → 打开Shadowrocket → 关闭 → √ → √ → 配置 → default.conf → 编辑纯文本 → 滚动条拉到最下面
 在最下面粘贴以下代码：
