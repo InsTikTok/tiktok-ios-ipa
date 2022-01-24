@@ -15,7 +15,7 @@
 	(^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
 
 	[MITM]
-	 hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
+	hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 再点击保存。
 
 4、在Shadowrocket添加节点，开启科学上网。
